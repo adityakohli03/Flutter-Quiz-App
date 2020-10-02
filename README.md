@@ -1,5 +1,6 @@
 # Quiz_app
 
+This is my first basic flutter app.
 
 ## Getting Started
 
